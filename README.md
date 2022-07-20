@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kratos1245
+- 👋 Hi, I’m Studnikov Dmitry. The Bachelor of Economics and computers geek :3
 - 👀 I’m interested in Python development and data science
 - 🌱 I’m currently learning django, flask and asyncio (trying)
 - 💞️ I’m looking to collaborate on everything interesting
